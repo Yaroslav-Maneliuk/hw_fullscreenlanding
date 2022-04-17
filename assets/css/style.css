@@ -54,6 +54,10 @@ h1{
   margin: 20px auto;
   color: #926239;
 }
+.button:hover{
+  background-color: #926239;
+  color: white;
+}
 .content{
   text-align: center;
   font-size: 17px;
